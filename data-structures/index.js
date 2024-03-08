@@ -4,3 +4,4 @@ import "/algorithms-data-structures/data-structures/Queue.js";
 import "/algorithms-data-structures/data-structures/HashTable.js";
 import "/algorithms-data-structures/data-structures/Tree.js";
 import "/algorithms-data-structures/data-structures/BinarySearchTree.js";
+import "/algorithms-data-structures/data-structures/HeapTree.js";
