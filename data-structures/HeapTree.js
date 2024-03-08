@@ -5,4 +5,7 @@
 
 class HeapTree {
     //TODO: implement
+    constructor() {
+        console.log("TODO: implement")
+    }
 }
